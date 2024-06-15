@@ -1,4 +1,4 @@
-## <center>BOOK LIBRARY API > FASTAPI</center>
+## <center> FASTAPI</center>
 
 - ### Pre-requirements
 

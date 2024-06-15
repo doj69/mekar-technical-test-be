@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE related files
+.vscode/
+
+# Python env
+.venv/
+venv/
+env/
+.env/
+
+# dotenv files
+.env
+.env.production
+.env.production.*
+.env.testing
+.env.testing.*
+.env.dev.*
+.env.*
+
+# pyenv
+.python-version
+
+
+# FastAPI generated files
+__pycache__/
